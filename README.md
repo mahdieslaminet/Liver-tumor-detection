@@ -66,7 +66,7 @@ The model outputs a probability map where white pixels represent the predicted l
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Open%20Live%20App-blue)](https://huggingface.co/spaces/MobinEs/liver-segmentation-demo)
 
-*(Note: The app runs on a free CPU instance, so prediction might take a few seconds.)*
+*(Note: The app runs on a free CPU instance, so prediction might take a few seconds.I've also provided a CT-Scan image in order to test the model. Please download it from the file at the top)*
 
 ## 📊 Technical Performance
 - **Validation Accuracy (Dice Score):** 93.7%
